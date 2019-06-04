@@ -4,9 +4,7 @@ CONcISE is a novel two-stage online approach for timely, scalable and accurate c
 
 ## Citation
 To cite your paper, please use the following reference:
-```
-Mengfan Yao, Charalampos Chelmis, and Daphney-Stavroula Zois. Cyberbullying Ends Here: Towards Robust Detection of Cyberbullying in Social Meida. In 2019 World Wide Web Conference on World Wide Web. International World Wide Web Conferences Steering Committee.
-```
+> Mengfan Yao, Charalampos Chelmis, and Daphney Zois. Cyberbullying Ends Here: Towards Robust Detection of Cyberbullying in Social Media. The 2019 World Wide Web Conference (WWW ’19), May 2019.
 
 BibTeX:
 ``` 
